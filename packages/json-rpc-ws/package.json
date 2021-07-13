@@ -23,7 +23,7 @@
   "author": "Nicolas Penin <akala@dragon-angel.fr>",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.2",
     "reflect-metadata": "^0.1.13",
     "uuid": "^8.0.0",
     "ws": "^7.4.6"
