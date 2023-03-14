@@ -60,7 +60,7 @@
     "source-map-support": "^0.5.19",
     "style-loader": "^3.0.0",
     "ts-loader": "^9.2.3",
-    "webpack": "^5.42.0",
+    "webpack": "^5.76.0",
     "xml2js": "^0.4.23"
   },
   "commands": "./commands.json",
