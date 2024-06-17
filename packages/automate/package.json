@@ -14,7 +14,7 @@
   },
   "gitHead": "afe8c192d4975f51ed95b2921da95b767be3879c",
   "dependencies": {
-    "@akala/commands": "^1.0.40",
+    "@akala/commands": "^2.2.0",
     "@akala/core": "^7.0.34",
     "@akala/json-rpc-ws": "^9.1.44",
     "@akala/server": "^6.1.77",
