@@ -26,7 +26,7 @@
     "debug": "^4.1.1",
     "reflect-metadata": "^0.1.13",
     "uuid": "^8.0.0",
-    "ws": "^7.4.6"
+    "ws": "^8.17.1"
   },
   "pre-commit": [
     "validate",
@@ -47,8 +47,8 @@
     "@types/ws": "^7.4.6",
     "bufferutil": "^4.0.0",
     "mocha": "^9.0.2",
-    "puppeteer": "^10.1.0",
-    "selenium-webdriver": "^4.0.0-beta.4",
+    "puppeteer": "^22.6.4",
+    "selenium-webdriver": "^4.0.0",
     "source-map-support": "^0.5.19",
     "typescript": "^4.3.5",
     "webpack": "^5.42.0",
