@@ -51,7 +51,7 @@
     "selenium-webdriver": "^4.0.0-beta.4",
     "source-map-support": "^0.5.19",
     "typescript": "^4.3.5",
-    "webpack": "^5.42.0",
+    "webpack": "^5.94.0",
     "webpack-cli": "^4.7.2"
   },
   "gitHead": "d92f6693ed8cca439c8e92d2045bb15c0a7dae43"
