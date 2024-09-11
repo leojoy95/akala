@@ -14,10 +14,10 @@
   },
   "gitHead": "afe8c192d4975f51ed95b2921da95b767be3879c",
   "dependencies": {
-    "@akala/commands": "^1.0.40",
+    "@akala/commands": "^8.2.19",
     "@akala/core": "^7.0.34",
     "@akala/json-rpc-ws": "^9.1.44",
-    "@akala/server": "^6.1.77",
+    "@akala/server": "^9.5.37",
     "orchestrator": "^0.3.8"
   }
 }
